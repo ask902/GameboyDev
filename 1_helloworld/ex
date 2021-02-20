@@ -1,0 +1,5 @@
+extern unsigned char KrysCGB[];
+/* Start of tile array. */
+extern unsigned char Krys[];
+
+/* End of KRYS.H */
